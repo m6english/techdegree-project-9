@@ -29,3 +29,8 @@
 .card {
     height: 100%;
 }
+
+.jumbotron {
+    background: linear-gradient(to top, rgba(0, 68, 255, 0.5), rgba(7, 104, 250, 0.5)), url(img/clare.jpg);
+    background-size: cover;
+}
