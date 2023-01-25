@@ -26,10 +26,3 @@ flip.addEventListener('click', () => {
     details.style.display = 'flex';
     flip.style.display = 'none';
 });
-
-// const myModal = document.getElementById('myModal')
-// const myInput = document.getElementById('myInput')
-
-// myModal.addEventListener('shown.bs.modal', () => {
-//   myInput.focus()
-// })
